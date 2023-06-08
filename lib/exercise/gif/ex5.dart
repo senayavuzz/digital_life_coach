@@ -18,7 +18,7 @@ class Exercise5 extends StatelessWidget {
                 SizedBox(
                   height: size.height * 0.01,
                 ),
-                const Image(image: AssetImage("assets/ex5.gif"),
+                const Image(image: AssetImage("assets/gif/ex5.gif"),
                 ),
                 Container(
                   margin: EdgeInsets.symmetric(vertical: 15),

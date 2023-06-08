@@ -58,12 +58,12 @@ flutter:
     - assets/bg.jpeg
     - assets/empty.jpeg
     - assets/full.jpeg
-    - assets/ex1.gif
-    - assets/ex2.gif
-    - assets/ex3.gif
-    - assets/ex4.gif
-    - assets/ex5.gif
-    - assets/ex6.gif
+    - assets/gif/ex1.gif
+    - assets/gif/ex2.gif
+    - assets/gif/ex3.gif
+    - assets/gif/ex4.gif
+    - assets/gif/ex5.gif
+    - assets/gif/ex6.gif
 
   #  - images/a_dot_ham.jpeg
 
