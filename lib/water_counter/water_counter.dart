@@ -17,7 +17,11 @@ class _HomeState extends State<WaterCounter> {
       if (_water <= 4) {
         _textInfo = 'Drink more water!';
       } else if (_water <= 7) {
+<<<<<<< HEAD
         _textInfo = "Drink more water. \n This amount is insufficient!";
+=======
+        _textInfo = "You're almost there.\nDrink more water!";
+>>>>>>> d928d013e5b9d206be49256ecf367c4a5c81040a
       } else {
         _textInfo = "Congratulations!\nYou drank 2L of water!";
       }
